@@ -5,7 +5,7 @@
 O projeto Endless Nightmare foi desenvolvido durante o evento "Jornada Primeira Vaga" da Rocketseat.  <br/>
 
 <p align="center">
-  <img alt="projeto treine.me" src="./images/preview.jpg" width="100%">
+  <img alt="layout do projeto Endless Nightmare" src="./images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
