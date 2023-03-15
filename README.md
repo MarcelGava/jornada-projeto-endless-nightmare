@@ -1,4 +1,3 @@
-# jornada-projeto-endless-nightmare
 
 <h1 align="center"> Endless Nightmare </h1>
 
