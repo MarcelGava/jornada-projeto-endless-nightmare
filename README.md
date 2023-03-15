@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-[Acesse o projeto finalizado, online](https://marcelgava.github.io/rocket.sect/)
+[Acesse o projeto finalizado, online](https://marcelgava.github.io/jornada-projeto-endless-nightmare)
